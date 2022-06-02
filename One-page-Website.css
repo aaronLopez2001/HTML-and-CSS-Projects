@@ -1,0 +1,46 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 25px large;
+}
+
+.FORMS {
+    text-align: center;  
+   
+}
+input{
+    text-align: center;
+
+    margin-right: 50px;
+    border: 5px double rgb(15, 93, 203);
+    padding: 3px 5px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.submitinput:hover{
+    color: aqua;
+    background-color: teal;
+    cursor: pointer;
+}
+
+.password{
+    margin: 0 auto;
+   display: inline;
+   
+}
+
+.email {
+   display: inline-block;
+    margin: 0 auto;
+    
+    
+}
+
+.submitinput{
+   
+    position: relative;
+    margin: 0 auto;
+}
+
+
+
