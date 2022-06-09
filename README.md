@@ -1,0 +1,3 @@
+# HTML-and-CSS-projects
+Here are all the Projects that I have made throughout this course 1.HTML-and-CSS-Projects -I've made an assignment called "Assignment.html' where I've made a simple website about where I came from. -I've also made a project called "One-Page-Website" where I wrote about all my hobbies. -We've also made a "fake website for cinemas". -We've also made a "fake website for a fake Space travel company". 2.Basic_HTML_and_CSS -We've learned how to make tables, lists, and style them 3.aaronlopez.github.io -I've learned how to use animation on my website -Created an actual portfolio website.
+
